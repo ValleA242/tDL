@@ -1,0 +1,36 @@
+.container {
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px gray;
+  margin: 10%;
+  text-align: center;
+  padding: 0% 5% 5% 5%;
+}
+
+button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+#listItem {
+  border: 1px black solid;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.toDoList {
+  list-style-type: none;
+}
